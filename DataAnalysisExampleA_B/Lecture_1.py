@@ -94,7 +94,7 @@ if __name__ == '__main__':
 
     sales['Revenue'].plot(kind='hist', bins=100, figsize=(14, 6))
     plt.show()
-    
+
     print(f"{sales['Unit_Price'].head()}\n")
     sales['Unit_Price'] *= 1.03
     print(f"{sales['Unit_Price'].head()}\n")
