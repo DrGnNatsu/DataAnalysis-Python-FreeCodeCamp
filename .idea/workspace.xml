@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1d84f6e4-707c-43c3-90d0-6650dacfc074" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/Lecture_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/Lecture_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/data/chinook.db" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/data/chinook.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/data/sakila.db" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/data/sakila.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/data/sales_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/data/sales_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Lecture_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lecture_2 (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.Lecture_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NumPy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tutorial.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -65,7 +71,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Lecture_2">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Phuong\LearnPython\DataAnalysis\Collab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.NumPy">
     <configuration name="Lecture_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysis" />
       <option name="ENV_FILES" value="" />
@@ -89,6 +100,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lecture_2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/Lecture_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Lecture_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysis" />
       <option name="ENV_FILES" value="" />
@@ -104,6 +138,52 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NumPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Introduction_to_Numpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Introduction_to_Numpy/NumPy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/JupyterNotebook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/JupyterNotebook/Tutorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,6 +217,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NumPy" />
+        <item itemvalue="Python.Tutorial" />
+        <item itemvalue="Python.Lecture_2 (1)" />
         <item itemvalue="Python.Lecture_2" />
         <item itemvalue="Python.Lecture_1" />
       </list>
@@ -165,7 +248,10 @@
       <workItem from="1722737790338" duration="1796000" />
       <workItem from="1722776869098" duration="9010000" />
       <workItem from="1722916104310" duration="1163000" />
-      <workItem from="1722943406323" duration="2664000" />
+      <workItem from="1722943406323" duration="2754000" />
+      <workItem from="1723030218466" duration="5843000" />
+      <workItem from="1723123411590" duration="5088000" />
+      <workItem from="1723128590120" duration="7051000" />
     </task>
     <servers />
   </component>
@@ -176,7 +262,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_2.py</url>
+          <url>file://$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/Lecture_2.py</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -185,6 +271,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_1.coverage" NAME="Lecture_1 Coverage Results" MODIFIED="1722783035382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysisExampleA_B" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$NumPy.coverage" NAME="NumPy Coverage Results" MODIFIED="1723135568297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Introduction_to_Numpy" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_2__1_.coverage" NAME="Lecture_2 (1) Coverage Results" MODIFIED="1723031102693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Tutorial.coverage" NAME="Tutorial Coverage Results" MODIFIED="1723048564876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/JupyterNotebook" />
     <SUITE FILE_PATH="coverage/DataAnalysis$main.coverage" NAME="main Coverage Results" MODIFIED="1722615493028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_2.coverage" NAME="Lecture_2 Coverage Results" MODIFIED="1722945941692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysisExampleA_B" />
   </component>

@@ -1,7 +1,7 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 import sqlite3
+
+import matplotlib.pyplot as plt
+import pandas as pd
 
 if __name__ == "__main__":
     pd.set_option('display.max_columns', None)  # This will display all columns
