@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d84f6e4-707c-43c3-90d0-6650dacfc074" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/Lecture_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/Lecture_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/Lecture_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/data/chinook.db" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/data/chinook.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/data/sakila.db" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/data/sakila.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysisExampleA_B/data/sales_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B/data/sales_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collab/Introduction_to_Numpy/NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collab/Introduction_to_Numpy/NumPy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +247,12 @@
       <workItem from="1722943406323" duration="2754000" />
       <workItem from="1723030218466" duration="5843000" />
       <workItem from="1723123411590" duration="5088000" />
-      <workItem from="1723128590120" duration="7051000" />
+      <workItem from="1723128590120" duration="7098000" />
+      <workItem from="1723171969216" duration="2696000" />
+      <workItem from="1723193850831" duration="597000" />
+      <workItem from="1723209330728" duration="4461000" />
+      <workItem from="1723277678087" duration="1187000" />
+      <workItem from="1723291089052" duration="1184000" />
     </task>
     <servers />
   </component>

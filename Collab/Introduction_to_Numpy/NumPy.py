@@ -5,7 +5,6 @@ import time
 if __name__ == "__main__":
     # ===========================================================================
     # 1. Basics NumPy array & array types
-
     a = np.array([1, 2, 3, 4])
 
     print(a, type(a), a.dtype),
@@ -17,6 +16,7 @@ if __name__ == "__main__":
     print()
 
     b = np.array([0, .5, 1, 1.5, 2])
+
     print(b, type(b), b.dtype)
     print(b[0], b[2], b[-1])
     print(b[[0, 2, -1]])  # Explanation: get the value at index 0, 2, -1
@@ -241,4 +241,5 @@ if __name__ == "__main__":
     # Explanation: generate a 3x2 matrix with ones on the diagonal and zeros elsewhere
     print(np.eye(3, 2, 1))
     # Explanation: generate a 3x2 matrix with ones on the first upper diagonal and zeros elsewhere
+    # k = 1 means the first upper diagonal
     print()
