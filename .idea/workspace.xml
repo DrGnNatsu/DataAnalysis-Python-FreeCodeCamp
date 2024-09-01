@@ -57,6 +57,10 @@
     "Python.Lecture_1.executor": "Run",
     "Python.Lecture_2 (1).executor": "Run",
     "Python.Lecture_2.executor": "Run",
+    "Python.Lession1_Reading_CSV_TXT.executor": "Run",
+    "Python.Lesson11_Reading_database.executor": "Run",
+    "Python.Lesson17_Reading_HTML.executor": "Run",
+    "Python.Lesson5_Reading_Excel.executor": "Run",
     "Python.Missing_data.executor": "Run",
     "Python.NumPy.executor": "Run",
     "Python.Read_CSV_and_Basic_Plotting.executor": "Run",
@@ -85,8 +89,8 @@
       <recent name="D:\Phuong\LearnPython\DataAnalysis\Collab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Real_example">
-    <configuration name="Cleaning_not_null_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lesson5_Reading_Excel">
+    <configuration name="Lession1_Reading_CSV_TXT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Data_Cleaning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Reading_Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Data_Cleaning/Cleaning_not_null_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Reading_Data/Lession1_Reading_CSV_TXT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Missing_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson11_Reading_database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysis" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,12 +122,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Data_Cleaning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Reading_Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Data_Cleaning/Missing_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Reading_Data/Lesson11_Reading_database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson17_Reading_HTML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Reading_Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Reading_Data/Lesson17_Reading_HTML.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson5_Reading_Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Reading_Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Reading_Data/Lesson5_Reading_Excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,29 +205,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Visualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysis" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Data_Cleaning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Data_Cleaning/Visualization.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DataAnalysis" />
       <option name="ENV_FILES" value="" />
@@ -201,36 +228,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysis" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Collab/Data_Cleaning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collab/Data_Cleaning/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lesson5_Reading_Excel" />
+        <item itemvalue="Python.Lesson17_Reading_HTML" />
+        <item itemvalue="Python.Lesson11_Reading_database" />
+        <item itemvalue="Python.Lession1_Reading_CSV_TXT" />
         <item itemvalue="Python.Real_example" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Visualization" />
-        <item itemvalue="Python.Cleaning_not_null_values" />
-        <item itemvalue="Python.Missing_data" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +293,11 @@
       <workItem from="1724678479649" duration="6794000" />
       <workItem from="1724749750814" duration="5088000" />
       <workItem from="1724763021391" duration="4113000" />
-      <workItem from="1724836778539" duration="6601000" />
+      <workItem from="1724836778539" duration="7882000" />
+      <workItem from="1724946514816" duration="3272000" />
+      <workItem from="1725020755376" duration="4344000" />
+      <workItem from="1725112180410" duration="5765000" />
+      <workItem from="1725159885990" duration="3859000" />
     </task>
     <servers />
   </component>
@@ -320,17 +328,21 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalysis$Data_clean.coverage" NAME="Data_clean Coverage Results" MODIFIED="1724416590073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$NumPy.coverage" NAME="NumPy Coverage Results" MODIFIED="1723725940468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Introduction_to_Numpy" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_1.coverage" NAME="Lecture_1 Coverage Results" MODIFIED="1724077469505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Read_CSV_and_Basic_Plotting.coverage" NAME="Read_CSV_and_Basic_Plotting Coverage Results" MODIFIED="1724314622516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_1.coverage" NAME="Lecture_1 Coverage Results" MODIFIED="1724077469505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$NumPy.coverage" NAME="NumPy Coverage Results" MODIFIED="1723725940468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Introduction_to_Numpy" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_2__1_.coverage" NAME="Lecture_2 (1) Coverage Results" MODIFIED="1723031102693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Tutorial.coverage" NAME="Tutorial Coverage Results" MODIFIED="1723048564876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/JupyterNotebook" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lesson11_Reading_database.coverage" NAME="Lesson11_Reading_database Coverage Results" MODIFIED="1725164235148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
     <SUITE FILE_PATH="coverage/DataAnalysis$test.coverage" NAME="test Coverage Results" MODIFIED="1724852119478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lesson5_Reading_Excel.coverage" NAME="Lesson5_Reading_Excel Coverage Results" MODIFIED="1725165396575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Missing_data.coverage" NAME="Missing_data Coverage Results" MODIFIED="1724576515246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
     <SUITE FILE_PATH="coverage/DataAnalysis$series_pandas.coverage" NAME="series_pandas Coverage Results" MODIFIED="1723886553390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Real_example.coverage" NAME="Real_example Coverage Results" MODIFIED="1724852128174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Visualization.coverage" NAME="Visualization Coverage Results" MODIFIED="1724751359103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
     <SUITE FILE_PATH="coverage/DataAnalysis$dataframes_pandas.coverage" NAME="dataframes_pandas Coverage Results" MODIFIED="1723986585520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lesson17_Reading_HTML.coverage" NAME="Lesson17_Reading_HTML Coverage Results" MODIFIED="1725164243380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lession1_Reading_CSV_TXT.coverage" NAME="Lession1_Reading_CSV_TXT Coverage Results" MODIFIED="1725121092257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
     <SUITE FILE_PATH="coverage/DataAnalysis$main.coverage" NAME="main Coverage Results" MODIFIED="1722615493028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_2.coverage" NAME="Lecture_2 Coverage Results" MODIFIED="1722945941692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysisExampleA_B" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Cleaning_not_null_values.coverage" NAME="Cleaning_not_null_values Coverage Results" MODIFIED="1724667070512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
