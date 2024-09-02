@@ -50,50 +50,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Cleaning_not_null_values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Data_clean.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture_2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lecture_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lession1_Reading_CSV_TXT.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson11_Reading_database.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson17_Reading_HTML.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson5_Reading_Excel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Missing_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NumPy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Read_CSV_and_Basic_Plotting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Real_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tutorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Visualization.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dataframes_pandas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.demographic_data_analyzer (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.demographic_data_analyzer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mean_var_std.executor&quot;: &quot;Run&quot;,
-    &quot;Python.medical_data_visualizer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.series_pandas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowPlots.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Phuong/LearnPython/DataAnalysis/Collab/Pandas_Introduction/ipynb_file/data/btc-market-price.csv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Cleaning_not_null_values.executor": "Run",
+    "Python.Data_clean.executor": "Run",
+    "Python.Lecture_1.executor": "Run",
+    "Python.Lecture_2 (1).executor": "Run",
+    "Python.Lecture_2.executor": "Run",
+    "Python.Lession1_Reading_CSV_TXT.executor": "Run",
+    "Python.Lesson11_Reading_database.executor": "Run",
+    "Python.Lesson17_Reading_HTML.executor": "Run",
+    "Python.Lesson5_Reading_Excel.executor": "Run",
+    "Python.Missing_data.executor": "Run",
+    "Python.NumPy.executor": "Run",
+    "Python.Read_CSV_and_Basic_Plotting.executor": "Run",
+    "Python.Real_example.executor": "Run",
+    "Python.Tutorial.executor": "Run",
+    "Python.Visualization.executor": "Run",
+    "Python.dataframes_pandas.executor": "Run",
+    "Python.demographic_data_analyzer (1).executor": "Run",
+    "Python.demographic_data_analyzer.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mean_var_std.executor": "Run",
+    "Python.medical_data_visualizer.executor": "Run",
+    "Python.series_pandas.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.time_series_visualizer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowPlots.ShowToolbar": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Phuong/LearnPython/DataAnalysis/Collab/Pandas_Introduction/ipynb_file/data/btc-market-price.csv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Phuong\LearnPython\DataAnalysis\Collab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.medical_data_visualizer">
+  <component name="RunManager" selected="Python.time_series_visualizer">
     <configuration name="Missing_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataAnalysis" />
       <option name="ENV_FILES" value="" />
@@ -132,29 +133,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Project2/demographic_data_analyzer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demographic_data_analyzer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DataAnalysis" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/demographic_data_analyzer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,13 +210,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="time_series_visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataAnalysis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project/Project4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project/Project4/time_series_visualizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.time_series_visualizer" />
         <item itemvalue="Python.medical_data_visualizer" />
         <item itemvalue="Python.demographic_data_analyzer (1)" />
         <item itemvalue="Python.Missing_data" />
         <item itemvalue="Python.series_pandas" />
-        <item itemvalue="Python.demographic_data_analyzer" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +307,7 @@
       <workItem from="1725249995968" duration="249000" />
       <workItem from="1725250253422" duration="2527000" />
       <workItem from="1725262673797" duration="6263000" />
-      <workItem from="1725280694849" duration="8025000" />
+      <workItem from="1725280694849" duration="9969000" />
     </task>
     <servers />
   </component>
@@ -342,26 +343,27 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalysis$Data_clean.coverage" NAME="Data_clean Coverage Results" MODIFIED="1724416590073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Read_CSV_and_Basic_Plotting.coverage" NAME="Read_CSV_and_Basic_Plotting Coverage Results" MODIFIED="1724314622516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_1.coverage" NAME="Lecture_1 Coverage Results" MODIFIED="1724077469505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
     <SUITE FILE_PATH="coverage/DataAnalysis$NumPy.coverage" NAME="NumPy Coverage Results" MODIFIED="1723725940468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Introduction_to_Numpy" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_2__1_.coverage" NAME="Lecture_2 (1) Coverage Results" MODIFIED="1723031102693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/DataAnalysisExampleA_B" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Tutorial.coverage" NAME="Tutorial Coverage Results" MODIFIED="1723048564876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/JupyterNotebook" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lesson11_Reading_database.coverage" NAME="Lesson11_Reading_database Coverage Results" MODIFIED="1725164235148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$time_series_visualizer.coverage" NAME="time_series_visualizer Coverage Results" MODIFIED="1725294950993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/Project4" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Missing_data.coverage" NAME="Missing_data Coverage Results" MODIFIED="1725251451160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Real_example.coverage" NAME="Real_example Coverage Results" MODIFIED="1724852128174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Visualization.coverage" NAME="Visualization Coverage Results" MODIFIED="1724751359103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lesson17_Reading_HTML.coverage" NAME="Lesson17_Reading_HTML Coverage Results" MODIFIED="1725164243380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$medical_data_visualizer.coverage" NAME="medical_data_visualizer Coverage Results" MODIFIED="1725294535121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/Project3" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$demographic_data_analyzer.coverage" NAME="demographic_data_analyzer Coverage Results" MODIFIED="1725250410101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Lession1_Reading_CSV_TXT.coverage" NAME="Lession1_Reading_CSV_TXT Coverage Results" MODIFIED="1725121092257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$main.coverage" NAME="main Coverage Results" MODIFIED="1722615493028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Read_CSV_and_Basic_Plotting.coverage" NAME="Read_CSV_and_Basic_Plotting Coverage Results" MODIFIED="1724314622516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
+    <SUITE FILE_PATH="coverage/DataAnalysis$Tutorial.coverage" NAME="Tutorial Coverage Results" MODIFIED="1723048564876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/JupyterNotebook" />
     <SUITE FILE_PATH="coverage/DataAnalysis$mean_var_std.coverage" NAME="mean_var_std Coverage Results" MODIFIED="1725209847279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
     <SUITE FILE_PATH="coverage/DataAnalysis$test.coverage" NAME="test Coverage Results" MODIFIED="1724852119478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lesson5_Reading_Excel.coverage" NAME="Lesson5_Reading_Excel Coverage Results" MODIFIED="1725165396575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
     <SUITE FILE_PATH="coverage/DataAnalysis$demographic_data_analyzer__1_.coverage" NAME="demographic_data_analyzer (1) Coverage Results" MODIFIED="1725269662535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/Project2" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Missing_data.coverage" NAME="Missing_data Coverage Results" MODIFIED="1725251451160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
     <SUITE FILE_PATH="coverage/DataAnalysis$series_pandas.coverage" NAME="series_pandas Coverage Results" MODIFIED="1725250416729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Real_example.coverage" NAME="Real_example Coverage Results" MODIFIED="1724852128174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Visualization.coverage" NAME="Visualization Coverage Results" MODIFIED="1724751359103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
     <SUITE FILE_PATH="coverage/DataAnalysis$dataframes_pandas.coverage" NAME="dataframes_pandas Coverage Results" MODIFIED="1723986585520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Pandas_Introduction" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Lesson17_Reading_HTML.coverage" NAME="Lesson17_Reading_HTML Coverage Results" MODIFIED="1725164243380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$medical_data_visualizer.coverage" NAME="medical_data_visualizer Coverage Results" MODIFIED="1725285455478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project/Project3" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$demographic_data_analyzer.coverage" NAME="demographic_data_analyzer Coverage Results" MODIFIED="1725250410101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$Lession1_Reading_CSV_TXT.coverage" NAME="Lession1_Reading_CSV_TXT Coverage Results" MODIFIED="1725121092257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Reading_Data" />
-    <SUITE FILE_PATH="coverage/DataAnalysis$main.coverage" NAME="main Coverage Results" MODIFIED="1722615493028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Lecture_2.coverage" NAME="Lecture_2 Coverage Results" MODIFIED="1722945941692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysisExampleA_B" />
     <SUITE FILE_PATH="coverage/DataAnalysis$Cleaning_not_null_values.coverage" NAME="Cleaning_not_null_values Coverage Results" MODIFIED="1724667070512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Collab/Data_Cleaning" />
   </component>
